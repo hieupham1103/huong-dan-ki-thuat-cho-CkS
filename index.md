@@ -1,4 +1,4 @@
-# Lời nói đầu
+# Lời Nói Đầu
 
 Hè hè, nếu mà bạn phải đọc qua cái này thì xin chúc mừng bạn "đã phải" làm slave cho Chess Không Stress:D
 
@@ -6,3 +6,8 @@ Hè hè, nếu mà bạn phải đọc qua cái này thì xin chúc mừng bạn
 
 À quên docs này được viết bởi Phạm Đình Trung Hiếu nhé.
 
+# Dùng OBS để stream giải đấu hoặc chiếu lên màn hình lớn
+
+Tải [OBS](https://obsproject.com/) trước rồi đọc tiếp nè
+
+* [Cơ bản về OBS](./OBS/obscoban.md)
