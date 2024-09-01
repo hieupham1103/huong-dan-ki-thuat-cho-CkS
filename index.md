@@ -14,3 +14,5 @@ Tải [OBS](https://obsproject.com/) trước rồi đọc tiếp nè
 * [Litchess OBS](https://github.com/hieupham1103/OBS-lichess-stream)
 
 # [Câu hỏi phỏng vấn](./cauhoiphongvan.md)
+
+# [Quy trình xử lý khi gặp vấn đề hoặc lỗi](/Google/google.md)
