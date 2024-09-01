@@ -1,34 +1,16 @@
-# OBS Cơ Bản
+# Cách dùng OBS
 
-## Scene là cái quái gì???
+Thực ra là trên mạng có hướng dẫn rồi nên là mình sẽ đưa ra các video trên youtube và tài liệu có liên quan để bạn có thể tiện học và tra cứu.
 
-![img](https://media.discordapp.net/attachments/481083331740565518/1122104796858564708/obsscene.png)
+## Cơ bản
 
-Thấy mấy cái **scene** trên kia không, nó là mấy cái màn hình để chiếu lên, và có thể chuyển giữa các màn hình khi chiếu.
+* [Hướng dẫn nhanh cách dùng phần mềm OBS (VnDigital)](https://www.youtube.com/watch?v=Kwidogp3JQU)
 
-Dưới đây là ví dụ về các **scene** nè:
+* [Hơi nâng cao (cách để setting output và các thứ nâng cao hơn tí)](https://www.youtube.com/watch?v=zoStCqFXat0)
+
+## Cách thứ hay ho mà chắc là sẽ cần thiết
+
+* [Dùng vdo.ninja để có thể share màn hình và camera từ máy này qua máy khác](https://www.youtube.com/watch?v=XTnb8OWo0Kw)
 
 
-![img](https://media.discordapp.net/attachments/481083331740565518/1122104797437370399/scene0.png)
-
-![img](https://media.discordapp.net/attachments/481083331740565518/1122104798167175248/scene1.png)
-
-![img](https://media.discordapp.net/attachments/481083331740565518/1122104798397865994/scene2.png)
-
-## Source
-
-Trong một cái **scene** thì có thêm vài **source**, về cơ bản thì nó giống mấy cái layer nếu bạn đã dùng **Photoshop** hoặc 
-là các cái element trong **Canva**.
-
-Từ giờ thì mình sẽ gọi các cái **source** là **element**
-
-![source](https://media.discordapp.net/attachments/481083331740565518/1122104797164736632/obssource.png)
-
-Các cái **element** cơ bản trong OBS:
-    
-* Text (nó là chữ tất nhiên rồi)
-* Image (ảnh)
-* Display Capture (chiếu toàn bộ màn hình của máy tính)
-* Window Capture (chiếu một cửa sổ)
-
-    
+* [Tool tự chế để thiết lập màn hình trận đấu lichess nhanh](https://www.youtube.com/watch?v=l6lMoZBadnU)
