@@ -10,5 +10,5 @@ Hè hè, nếu mà bạn phải đọc qua cái này thì xin chúc mừng bạn
 
 Tải [OBS](https://obsproject.com/) trước rồi đọc tiếp nè
 
-* [Cách đùng OBS](./OBS/obscoban.md)
+* [Cách dùng OBS](./OBS/obscoban.md)
 * [Litchess OBS](https://github.com/hieupham1103/OBS-lichess-stream)
