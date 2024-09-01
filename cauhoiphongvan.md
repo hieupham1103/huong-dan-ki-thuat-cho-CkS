@@ -6,7 +6,7 @@
     * Nếu không thì hãy đọc qua [Cách dùng Google 101](./Google/google.md).
 
 * Bạn có trả năng tự học cái mới không?
-    * Giống như câu hỏi trên nhưng giờ đây bạn phải tự tìm giải pháp.
+    * Giống như câu hỏi trên nhưng giờ đây bạn phải học thêm 1 mảng mới hoàn toàn để giải quyết một vấn đề.
 
 * Bạn có khả năng lập trình không?
     * Thực ra là cũng không cần lắm nhưng việc lập trình sẽ giúp cho bạn có thể tự tạo ra giải pháp nếu bạn không thể tìm ra giải pháp.
